@@ -1,0 +1,7 @@
+com.autopia4j.framework.webdriver.core
+com.autopia4j.framework.webdriver.impl.keyword
+com.autopia4j.framework.webdriver.impl.modular
+com.autopia4j.framework.webdriver.mobile
+com.autopia4j.framework.webdriver.reporting
+com.autopia4j.framework.webdriver.testrunner
+com.autopia4j.framework.webdriver.utils

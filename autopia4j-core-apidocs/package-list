@@ -1,0 +1,6 @@
+com.autopia4j.framework.core
+com.autopia4j.framework.datatable
+com.autopia4j.framework.datatable.impl
+com.autopia4j.framework.reporting
+com.autopia4j.framework.reporting.impl
+com.autopia4j.framework.utils
