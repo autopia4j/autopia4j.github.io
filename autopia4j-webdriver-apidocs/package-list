@@ -1,4 +1,5 @@
 com.autopia4j.framework.webdriver.core
+com.autopia4j.framework.webdriver.impl.basic
 com.autopia4j.framework.webdriver.impl.cucumber
 com.autopia4j.framework.webdriver.impl.keyword
 com.autopia4j.framework.webdriver.impl.modular
