@@ -1,9 +1,11 @@
 com.autopia4j.framework.webdriver.core
-com.autopia4j.framework.webdriver.impl.basic
 com.autopia4j.framework.webdriver.impl.cucumber
-com.autopia4j.framework.webdriver.impl.keyword
-com.autopia4j.framework.webdriver.impl.modular
-com.autopia4j.framework.webdriver.impl.simple
+com.autopia4j.framework.webdriver.impl.keywordDriven.basic
+com.autopia4j.framework.webdriver.impl.keywordDriven.dataNonIterative
+com.autopia4j.framework.webdriver.impl.keywordDriven.dataSubIterative
+com.autopia4j.framework.webdriver.impl.modular.basic
+com.autopia4j.framework.webdriver.impl.modular.dataIterative
+com.autopia4j.framework.webdriver.impl.modular.dataNonIterative
 com.autopia4j.framework.webdriver.mobile
 com.autopia4j.framework.webdriver.reporting
 com.autopia4j.framework.webdriver.testrunner
